@@ -1,0 +1,47 @@
+dateModified: 1626342603
+email:
+  fromEmail: kajaljethva2203@gmail.com
+  fromName: 'Craft Demo'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    03a7a629-c5be-46eb-997b-ba51a4f55731: Common # Common
+    3b2be009-df43-4586-a27f-bb18235a1a25: Home # Home
+    3bd63b7c-cacc-4374-b75b-e36987b93ce5: 'Link Destination' # Link Destination
+    6ffb3c87-a384-463e-aaed-202be5098a93: 'Craft Demo' # Craft Demo
+    7fa024f6-5801-4635-bfee-ab350a13ec24: 'About Us' # About Us
+    8bb3e594-ff9a-488f-b6e3-41cdebcdb880: 'Blog Posts' # Blog Posts
+    36ef3782-183d-4f6e-b1f7-b7d2f34046e8: Blog # Blog
+    038f2931-b440-4c5c-8107-6812c12f9a76: 'About Us' # About Us
+    47aaeb33-fc15-471d-ac5f-53fdf3d35841: 'Rich Text' # Rich Text
+    89beaaec-fc2e-4208-b5f4-2147fe402283: Navigation # Navigation
+    749c4abb-dafc-4ff2-95aa-84cbdcdead80: Header # Header
+    4980feae-a850-4821-8414-2aab28bc88a1: Home # Home
+    7886db53-bd14-4b29-9362-dc82fa40ad91: Contact # Contact
+    26860456-c19f-4358-ba05-c907fdac66e1: Footer # Footer
+    81955874-cab4-4240-a3f0-91a479c125f2: 'Link Text' # Link Text
+    a2ec80f0-7f7f-4ba1-883b-e5df70885e50: Medium # Medium
+    b9fd0b54-199e-47fa-bb41-af4b1eacdabc: 'Nav Link' # Nav Link
+    c6c4212a-17a4-47ce-9787-e5a7e5803da3: 'Craft Demo' # Craft Demo
+    d61d546b-dc1e-45fb-8289-572ce0d7f04c: Blog # Blog
+    d27128e9-5d17-4ac7-b3d7-b441e06ae2c6: 'Feature Image' # Feature Image
+    d6947288-b758-4a87-91a7-83c13bcd9329: Uploads # Uploads
+    e54c85a4-00de-4b7f-906f-2b7590636af1: 'Blog Posts' # Blog Posts
+    ef22b476-8c74-46f4-9c7b-85e5a1765b91: Contact # Contact
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: 'Craft Demo'
+  schemaVersion: 3.7.7
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

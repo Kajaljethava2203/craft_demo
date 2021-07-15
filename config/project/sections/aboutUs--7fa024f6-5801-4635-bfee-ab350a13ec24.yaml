@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: aboutUs
+name: 'About Us'
+propagationMethod: all
+siteSettings:
+  6ffb3c87-a384-463e-aaed-202be5098a93: # Craft Demo
+    enabledByDefault: true
+    hasUrls: true
+    template: general
+    uriFormat: about-us
+type: single
